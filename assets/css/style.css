@@ -95,9 +95,11 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   margin: 0;
 }
-
+.sp{
+  margin-bottom: 8vh;
+}
 #header .social-links {
-  margin-top: 40px;
+  margin-top: 80px;
   display: flex;
 }
 
