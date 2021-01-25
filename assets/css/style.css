@@ -469,12 +469,14 @@ section .container {
 
 .skills .progress-bar-wrap {
   background: rgba(255, 255, 255, 0.15);
+  border-radius: 3px;
 }
 
 .skills .progress-bar {
   width: 1px;
   height: 10px;
   transition: .9s;
+  border-radius: 3px;
   background-color: #52b788;
 }
 
