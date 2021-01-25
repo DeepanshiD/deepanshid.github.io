@@ -645,10 +645,10 @@ section .container {
 .resume .resume-item::before {
   content: "";
   position: absolute;
-  width: 16px;
-  height: 16px;
+  width: 10px;
+  height: 10px;
   border-radius: 50px;
-  left: -9px;
+  left: -6px;
   top: 0;
   background:#52b788;
   border: 2px solid #52b788;
